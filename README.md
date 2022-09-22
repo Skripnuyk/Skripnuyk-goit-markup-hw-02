@@ -1,2 +1,1 @@
-# Skripnuyk/goit-markup-hw-02
- homework2
+# goit-markup-hw-01
