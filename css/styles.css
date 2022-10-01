@@ -107,7 +107,7 @@ a {
 
 .title {
   color: var(--secondary-text-color);
-
+font-style: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
 }
@@ -166,11 +166,10 @@ a {
   color: var(--primary-white-color);
 }
 
-.porject-title {
+.project-title {
   font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
-
 color: var(--secondary-text-color);
 }
 
